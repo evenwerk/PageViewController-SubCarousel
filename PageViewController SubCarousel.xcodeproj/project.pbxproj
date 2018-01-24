@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4D7A80422018996700CB3947 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7A80412018996700CB3947 /* AppDelegate.swift */; };
-		4D7A80442018996700CB3947 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7A80432018996700CB3947 /* ViewController.swift */; };
+		4D7A80442018996700CB3947 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7A80432018996700CB3947 /* PageViewController.swift */; };
 		4D7A80472018996700CB3947 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D7A80452018996700CB3947 /* Main.storyboard */; };
 		4D7A80492018996700CB3947 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D7A80482018996700CB3947 /* Assets.xcassets */; };
 		4D7A804C2018996700CB3947 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D7A804A2018996700CB3947 /* LaunchScreen.storyboard */; };
@@ -17,7 +17,7 @@
 /* Begin PBXFileReference section */
 		4D7A803E2018996700CB3947 /* PageViewController SubCarousel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PageViewController SubCarousel.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D7A80412018996700CB3947 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4D7A80432018996700CB3947 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4D7A80432018996700CB3947 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		4D7A80462018996700CB3947 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4D7A80482018996700CB3947 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D7A804B2018996700CB3947 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -55,7 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				4D7A80412018996700CB3947 /* AppDelegate.swift */,
-				4D7A80432018996700CB3947 /* ViewController.swift */,
+				4D7A80432018996700CB3947 /* PageViewController.swift */,
 				4D7A80452018996700CB3947 /* Main.storyboard */,
 				4D7A80482018996700CB3947 /* Assets.xcassets */,
 				4D7A804A2018996700CB3947 /* LaunchScreen.storyboard */,
@@ -136,7 +136,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D7A80442018996700CB3947 /* ViewController.swift in Sources */,
+				4D7A80442018996700CB3947 /* PageViewController.swift in Sources */,
 				4D7A80422018996700CB3947 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -275,7 +275,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = NBU39L2QEJ;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "PageViewController SubCarousel/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.evenwerk.PageViewController-SubCarousel";
@@ -290,7 +290,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = NBU39L2QEJ;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "PageViewController SubCarousel/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.evenwerk.PageViewController-SubCarousel";

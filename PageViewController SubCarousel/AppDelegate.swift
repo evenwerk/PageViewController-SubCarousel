@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  PageViewController SubCarousel
-//
-//  Created by Tim Even on 24/01/2018.
-//  Copyright © 2018 evenwerk. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
